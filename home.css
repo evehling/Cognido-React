@@ -39,11 +39,11 @@
 }
 .home-button {
   color: var(--dl-color-scheme-green100);
+  border-color: var(--dl-color-scheme-yellow80);
   background-color: var(--dl-color-scheme-lblue);
 }
 .home-text04 {
-  color: var(--dl-color-scheme-green100);
-  background-color: var(--dl-color-scheme-white);
+  color: var(--dl-color-scheme-white);
 }
 .home-burger-menu {
   fill: #105749;
@@ -105,6 +105,7 @@
 }
 .home-section {
   height: 558px;
+  display: none;
   align-items: center;
   justify-content: center;
 }
@@ -159,6 +160,7 @@
 }
 .home-section1 {
   height: 611px;
+  display: none;
   background-color: rgba(255, 199, 139, 0.14);
 }
 .home-max-width3 {
@@ -227,6 +229,7 @@
   flex-direction: row;
 }
 .home-section2 {
+  display: none;
   background-color: var(--dl-color-scheme-orange80);
 }
 .home-max-width4 {
@@ -390,6 +393,9 @@
   color: var(--dl-color-scheme-white);
   line-height: 1.5;
 }
+.home-section3 {
+  display: none;
+}
 .home-max-width5 {
   align-items: center;
   flex-direction: column;
@@ -419,6 +425,7 @@
   justify-content: space-between;
 }
 .home-section4 {
+  height: 299px;
   padding-top: 0px;
 }
 .home-max-width6 {
@@ -600,6 +607,7 @@
 }
 .home-footer {
   width: 100%;
+  height: 97px;
   display: flex;
   max-width: var(--dl-size-size-maxwidth);
   align-items: center;
