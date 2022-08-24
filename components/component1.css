@@ -1,0 +1,30 @@
+.component1-container {
+  display: flex;
+  position: relative;
+}
+.component1-text {
+  font-size: 3rem;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+@media(max-width: 1200px) {
+  .component1-text {
+    font-size: 3rem;
+  }
+  .component1-text2 {
+    color: var(--dl-color-scheme-yellow80);
+  }
+}
+@media(max-width: 991px) {
+  .component1-text {
+    font-size: 3rem;
+    text-align: center;
+  }
+  .component1-text2 {
+    color: var(--dl-color-scheme-lightgreen);
+  }
+}
+@media(max-width: 767px) {
+  .component1-text {
+    text-align: center;
+  }
+}
