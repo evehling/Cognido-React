@@ -466,7 +466,6 @@
 .home-image04 {
   width: 199px;
   height: 134px;
-  display: none;
   object-fit: cover;
 }
 .home-text39 {
@@ -491,7 +490,6 @@
 .home-image05 {
   width: 233px;
   height: 140px;
-  display: none;
   object-fit: cover;
 }
 .home-text41 {
@@ -517,7 +515,6 @@
 .home-image06 {
   width: 243px;
   height: 124px;
-  display: none;
   object-fit: cover;
 }
 .home-text43 {
@@ -543,7 +540,6 @@
 .home-image07 {
   width: 210px;
   height: 152px;
-  display: none;
   object-fit: cover;
 }
 .home-text45 {
@@ -918,7 +914,6 @@
   .home-image05 {
     width: 274px;
     height: 169px;
-    display: none;
   }
   .home-feature-card2 {
     width: 298px;
@@ -928,7 +923,6 @@
   .home-image06 {
     width: 100%;
     height: 160px;
-    display: none;
   }
   .home-text43 {
     font-style: normal;
@@ -945,7 +939,6 @@
   .home-image07 {
     width: 267px;
     height: 196px;
-    display: none;
   }
 }
 @media(max-width: 479px) {
