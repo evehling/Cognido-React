@@ -130,7 +130,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.home-image1 {
+.home-image01 {
   width: 100%;
   height: 394px;
   object-fit: cover;
@@ -185,7 +185,7 @@
   align-items: space-between;
   flex-direction: column;
 }
-.home-image2 {
+.home-image02 {
   width: 210px;
   height: 407px;
   object-fit: cover;
@@ -267,7 +267,7 @@
 .home-max-width4 {
   align-items: stretch;
 }
-.home-image3 {
+.home-image03 {
   width: 50%;
 }
 .home-hero-image {
@@ -453,7 +453,7 @@
   align-items: center;
   flex-direction: column;
 }
-.home-image4 {
+.home-image04 {
   width: 199px;
   height: 134px;
   object-fit: cover;
@@ -477,7 +477,7 @@
   align-items: center;
   flex-direction: column;
 }
-.home-image5 {
+.home-image05 {
   width: 233px;
   height: 140px;
   object-fit: cover;
@@ -502,7 +502,7 @@
   align-items: center;
   flex-direction: column;
 }
-.home-image6 {
+.home-image06 {
   width: 243px;
   height: 124px;
   object-fit: cover;
@@ -527,7 +527,7 @@
   align-items: center;
   flex-direction: column;
 }
-.home-image7 {
+.home-image07 {
   width: 210px;
   height: 152px;
   object-fit: cover;
@@ -668,7 +668,7 @@
 .home-text58 {
   margin-top: 8px;
 }
-.home-image8 {
+.home-image08 {
   width: 50%;
   object-fit: cover;
   margin-right: -200px;
@@ -720,6 +720,10 @@
   text-decoration: none;
   background-color: var(--dl-color-scheme-lightgreen);
 }
+.home-image09 {
+  width: 100px;
+  object-fit: cover;
+}
 @media(max-width: 1200px) {
   .home-max-width1 {
     width: 1018px;
@@ -735,7 +739,7 @@
     width: 283px;
     height: 242px;
   }
-  .home-image1 {
+  .home-image01 {
     margin-left: var(--dl-space-space-oneandhalfunits);
   }
   .home-section3 {
@@ -753,7 +757,7 @@
     width: 252px;
     padding-top: 32px;
   }
-  .home-image4 {
+  .home-image04 {
     width: 217px;
     height: 138px;
   }
@@ -761,7 +765,7 @@
     width: 252px;
     padding-top: 32px;
   }
-  .home-image5 {
+  .home-image05 {
     width: 217px;
     height: 129px;
   }
@@ -772,7 +776,7 @@
     width: 252px;
     padding-top: 32px;
   }
-  .home-image6 {
+  .home-image06 {
     width: 231px;
     height: 124px;
   }
@@ -780,7 +784,7 @@
     width: 252px;
     padding-top: 32px;
   }
-  .home-image7 {
+  .home-image07 {
     width: 207px;
     height: 152px;
   }
@@ -796,7 +800,7 @@
     width: 397px;
     height: 371px;
   }
-  .home-image1 {
+  .home-image01 {
     width: 350px;
     height: 346px;
     margin-top: 0px;
@@ -820,28 +824,28 @@
   .home-feature-card {
     width: 408px;
   }
-  .home-image4 {
+  .home-image04 {
     width: 349px;
     height: 220px;
   }
   .home-feature-card1 {
     width: 408px;
   }
-  .home-image5 {
+  .home-image05 {
     width: 366px;
     height: 221px;
   }
   .home-feature-card2 {
     width: 408px;
   }
-  .home-image6 {
+  .home-image06 {
     width: 372px;
     height: 202px;
   }
   .home-feature-card3 {
     width: 408px;
   }
-  .home-image7 {
+  .home-image07 {
     width: 267px;
     height: 194px;
   }
@@ -863,7 +867,7 @@
     margin-top: var(--dl-space-space-unit);
     margin-left: 72px;
   }
-  .home-image1 {
+  .home-image01 {
     width: 281px;
     height: 278px;
     margin-right: 0px;
@@ -885,7 +889,7 @@
   .home-feature-card {
     width: 298px;
   }
-  .home-image4 {
+  .home-image04 {
     width: 269px;
     height: 169px;
   }
@@ -894,7 +898,7 @@
     padding-left: 0px;
     padding-right: 0px;
   }
-  .home-image5 {
+  .home-image05 {
     width: 274px;
     height: 169px;
   }
@@ -903,7 +907,7 @@
     padding-left: 0px;
     padding-right: 0px;
   }
-  .home-image6 {
+  .home-image06 {
     width: 100%;
     height: 160px;
   }
@@ -919,7 +923,7 @@
     padding-left: 0px;
     padding-right: 0px;
   }
-  .home-image7 {
+  .home-image07 {
     width: 267px;
     height: 196px;
   }
@@ -1025,28 +1029,28 @@
   .home-feature-card {
     width: 383px;
   }
-  .home-image4 {
+  .home-image04 {
     width: 370px;
     height: 240px;
   }
   .home-feature-card1 {
     width: 383px;
   }
-  .home-image5 {
+  .home-image05 {
     width: 100%;
     height: 214px;
   }
   .home-feature-card2 {
     width: 383px;
   }
-  .home-image6 {
+  .home-image06 {
     width: 100%;
     height: 206px;
   }
   .home-feature-card3 {
     width: 383px;
   }
-  .home-image7 {
+  .home-image07 {
     width: 302px;
     height: 219px;
   }
