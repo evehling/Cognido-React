@@ -437,6 +437,7 @@
 .home-section3 {
   height: 707px;
   padding-top: var(--dl-space-space-halfunit);
+  background-color: #ffffff;
 }
 .home-features {
   width: 1401px;
